@@ -14,7 +14,6 @@ const router = createBrowserRouter([
                 element: <FormBuild/>
             },
             {path:'/about', element: <About/>},
-            {path:'/test', element: <FormBuilder/>}
         ]
     }
 ])
